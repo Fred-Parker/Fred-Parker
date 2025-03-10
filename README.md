@@ -18,7 +18,9 @@ My journey is only just beginning, and I'm constantly **learning and growing**. 
 *   ✉️  You can contact me at [fredparker.writer@gmail.com](mailto:fredparker.writer@gmail.com)
 *   🧠  I'm learning Power BI, Tableau, SQL, Azure, Python, and Javascript
 *   🤝  I'm open to collaborating on anything data & software development
-*   ⚡  Serious coffee enthusiast - always happy to chat over a brew!### Skills 
+*   ⚡  Serious coffee enthusiast - always happy to chat over a brew!
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
                     </p>
