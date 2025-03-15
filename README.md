@@ -2,7 +2,7 @@ Hi, I'm Fred 👋
 =============================
 Trainee Data Technician / Data Analyst / Software Developer ✏️
 =============================
-<h2>You want less reading, more clicking? I got you:</h2>
+<h2>You want less reading, and more clicking? I got you:</h2>
 <ul>
   <li><a href="#about me">About Me</a></li>
   <li><a href="#excel">Excel</a></li>
