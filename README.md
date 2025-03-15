@@ -1,10 +1,21 @@
-Hi 👋 My name is Fred Parker!
+Hi, I'm Fred 👋 
 =============================
+Trainee Data Technician / Data Analyst / Software Devlopment ✏️
+=============================
+<h2>Skip Ahead:</h2>
+<ul>
+  <li><a href="#about me">About Me</a></li>
+  <li><a href="#excel">Excel</a></li>
+  <li><a href="#powerbi">Power BI</a></li>
+  <li><a href="#sql">SQL</a></li>
+  <li><a href="#tableau">Tableau</a></li>
+  <li><a href="#python">Python</a></li>
+</ul>
 
-**GitHub Portfolio:** https://github.com/Fred-Parker/Fred_Parker_Portfolio
-
-Trainee Data Technician
------------------------
+<hr>
+<h2 id="about me">About Me 🫡</h2>
+<p>
+</p>
 
 After making a career change at the end of 2024 - (I was an actor for many years- *long story*!), I've discovered **my passion for data and software development**. *Efficiency and problem-solving have always driven me*, and **coding and analytics** are a perfect fit for my skills and interests. 
 
@@ -30,7 +41,54 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Fred-Parker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Fred-Parker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.linkedin.com/in/fred-parker-99ba62355/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn Logo" />
+  </a>
+</p>
+
+
+<h2 id="excel">📊 Excel</h2>
+<p>
+  - Experience with advanced Excel functions like VLOOKUP, INDEX/MATCH, and Pivot Tables.<br>
+  - Can automate reports with macros and VBA for streamlined workflows.<br>
+  - <a href="your-project-link">View Excel Project</a>
+</p>
+
+<h2 id="powerbi">📈 Power BI</h2>
+<p>
+  - Created interactive dashboards for data visualization and insights.<br>
+  - Working knowledge of DAX functions for complex data modeling.<br>
+  - <a href="your-project-link">View Power BI Project</a>
+</p>
+
+<h2 id="sql">💾 SQL</h2>
+<p>
+  - Experience in writing efficient queries for data retrieval and manipulation.<br>
+  - Experience with database design and optimisation techniques.<br>
+  - <a href="your-project-link">View SQL Project</a>
+</p>
+
+<h2 id="tableau">📊 Tableau</h2>
+<p>
+  - Built dynamic visualizations and storytelling dashboards.<br>
+  - Integrated Tableau with live data sources for real-time analytics.<br>
+  - <a href="your-project-link">View Tableau Project</a>
+</p>
+
+<h2 id="python">🐍 Python</h2>
+<p>
+  - Developed Python scripts for data analysis and automation.<br>
+  - Experience importing and using libraries like Pandas, NumPy, Matplotlib, and Seaborn.<br>
+  - <a href="your-project-link">View Python Project</a>
+</p>
+
+<hr>
+
+<p align="center">
+  Thank you for visiting my portfolio! Feel free to explore and reach out if you'd like to connect.
+</p>
+
 
 ### Stats
 
