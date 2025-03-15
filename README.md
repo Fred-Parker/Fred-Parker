@@ -66,7 +66,7 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 <p>
   - Experience in writing efficient queries for data retrieval and manipulation.<br>
   - Experience with database design and optimisation techniques.<br>
-  - <a href="https://github.com/Fred-Parker/Azure-Report---Paws-Whiskers">View SQL Project</a>
+  - <a href="https://github.com/Fred-Parker/Azure-Report---Paws-Whiskers">Microsoft Azure & SQL (A Report For Small Businesses) </a>
 </p>
 
 <h2 id="tableau">📊 Tableau</h2>
