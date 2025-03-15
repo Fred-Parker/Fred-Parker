@@ -52,7 +52,7 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 <p>
   - Experience with advanced Excel functions like VLOOKUP, INDEX/MATCH, and Pivot Tables.<br>
   - Can automate reports with macros and VBA for streamlined workflows.<br>
-  - <a href="your-project-link">View Excel Project</a>
+  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">View Excel Project (Bike Sales Analysis: Report & Dashboard)</a>
 </p>
 
 <h2 id="powerbi">📈 Power BI</h2>
