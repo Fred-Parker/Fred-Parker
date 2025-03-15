@@ -1,6 +1,6 @@
 Hi, I'm Fred 👋 
 =============================
-Trainee Data Technician / Data Analyst / Software Devlopment ✏️
+Trainee Data Technician / Data Analyst / Software Development ✏️
 =============================
 <h2>Less reading, more clicking:</h2>
 <ul>
