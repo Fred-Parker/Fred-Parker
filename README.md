@@ -1,6 +1,8 @@
 Hi 👋 My name is Fred Parker!
 =============================
 
+**GitHub Portfolio:** https://github.com/Fred-Parker/Fred_Parker_Portfolio
+
 Trainee Data Technician
 -----------------------
 
