@@ -73,6 +73,7 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 <p>
   - Built dynamic visualizations and storytelling dashboards.<br>
   - Integrated Tableau with live data sources for real-time analytics.<br>
+  - <a href="https://github.com/Fred-Parker/Tableau---WHO-Survery-1990-2008">View Tableau Project (WHO Cancer Rates 1990-2008: Dashboard & Insights)</a>
   - <a href="https://github.com/Fred-Parker/Tableau---Gaming-Sales-Dashboard">View Tableau Project (Gaming Sales: Dashboard & Insights)</a>
 </p>
 
