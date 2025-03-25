@@ -73,7 +73,7 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 <p>
   - Experience with advanced Excel functions like VLOOKUP, INDEX/MATCH, and Pivot Tables.<br>
   - Can automate reports with macros and VBA for streamlined workflows.<br>
-  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">(Excel)Bike Sales Analysis: Report & Dashboard</a>
+  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">(Excel) Bike Sales Analysis: Report & Dashboard</a>
 </p>
 
 <h2 id="sql">💾 SQL</h2>
