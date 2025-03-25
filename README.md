@@ -4,11 +4,11 @@ Trainee Data Technician / Data Analyst / Software Developer ✏️
 =============================
 <h2>You want less reading, and more clicking? I got you:</h2>
 <ul>
+  <li><a href="#tableau">Tableau</a></li>
   <li><a href="#about me">About Me</a></li>
   <li><a href="#excel">Excel</a></li>
   <li><a href="#powerbi">Power BI</a></li>
   <li><a href="#sql">SQL</a></li>
-  <li><a href="#tableau">Tableau</a></li>
   <li><a href="#python">Python</a></li>
 </ul>
 
@@ -47,6 +47,13 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
   </a>
 </p>
 
+<h2 id="tableau">📊 Tableau</h2>
+<p>
+  - Built dynamic visualizations and storytelling dashboards.<br>
+  - Integrated Tableau with live data sources for real-time analytics.<br>
+  - <a href="https://github.com/Fred-Parker/Tableau---WHO-Survery-1990-2008">View Tableau Project (WHO Cancer Rates 1990-2008: Dashboard & Insights)</a>
+  --- <a href="https://github.com/Fred-Parker/Tableau---Gaming-Sales-Dashboard">View Tableau Project (Gaming Sales: Dashboard & Insights)</a>
+</p>
 
 <h2 id="excel">📊 Excel</h2>
 <p>
@@ -67,14 +74,6 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
   - Experience in writing efficient queries for data retrieval and manipulation.<br>
   - Experience with database design and optimisation techniques.<br>
   - <a href="https://github.com/Fred-Parker/Azure-Report---Paws-Whiskers">Microsoft Azure & SQL (A Report For Small Businesses) </a>
-</p>
-
-<h2 id="tableau">📊 Tableau</h2>
-<p>
-  - Built dynamic visualizations and storytelling dashboards.<br>
-  - Integrated Tableau with live data sources for real-time analytics.<br>
-  - <a href="https://github.com/Fred-Parker/Tableau---WHO-Survery-1990-2008">View Tableau Project (WHO Cancer Rates 1990-2008: Dashboard & Insights)</a>
-  --- <a href="https://github.com/Fred-Parker/Tableau---Gaming-Sales-Dashboard">View Tableau Project (Gaming Sales: Dashboard & Insights)</a>
 </p>
 
 <h2 id="python">🐍 Python</h2>
