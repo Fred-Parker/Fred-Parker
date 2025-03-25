@@ -59,7 +59,7 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 <p>
   - Created interactive dashboards for data visualization and insights.<br>
   - Working knowledge of DAX functions for complex data modeling.<br>
-  - <a href="your-project-link">View Power BI Project</a>
+  - <a href="https://github.com/Fred-Parker/PowerBI_Tech_Jobs_Satisfaction_Survey_Results">View Power BI Project (Tech Jobs Satisfaction Survery: Dashboard & Insights)</a>
 </p>
 
 <h2 id="sql">💾 SQL</h2>
