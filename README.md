@@ -6,10 +6,10 @@ Trainee Data Technician / Data Analyst / Software Developer ✏️
 <ul>
   <li><a href="#about me">About Me</a></li>
   <li><a href="#tableau">Tableau</a></li>
-  <li><a href="#excel">Excel</a></li>
-  <li><a href="#powerbi">Power BI</a></li>
-  <li><a href="#sql">SQL</a></li>
   <li><a href="#python">Python</a></li>
+  <li><a href="#powerbi">Power BI</a></li>
+  <li><a href="#excel">Excel</a></li>
+  <li><a href="#sql">SQL</a></li>
 </ul>
 
 <hr>
@@ -55,11 +55,11 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
   --- <a href="https://github.com/Fred-Parker/Tableau---Gaming-Sales-Dashboard">View Tableau Project (Gaming Sales: Dashboard & Insights)</a>
 </p>
 
-<h2 id="excel">📊 Excel</h2>
+<h2 id="python">🐍 Python</h2>
 <p>
-  - Experience with advanced Excel functions like VLOOKUP, INDEX/MATCH, and Pivot Tables.<br>
-  - Can automate reports with macros and VBA for streamlined workflows.<br>
-  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">View Excel Project (Bike Sales Analysis: Report & Dashboard)</a>
+  - Developed Python scripts for data analysis and automation.<br>
+  - Experience importing and using libraries like Pandas, NumPy, Matplotlib, and Seaborn.<br>
+  - <a href="https://github.com/Fred-Parker/Python---GDP-nominal-per_capita">View Python Project (Global GDP Data - Visualisation & Analysis)</a>
 </p>
 
 <h2 id="powerbi">📈 Power BI</h2>
@@ -69,18 +69,18 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
   - <a href="https://github.com/Fred-Parker/PowerBI_Tech_Jobs_Satisfaction_Survey_Results">View Power BI Project (Tech Jobs Satisfaction Survery: Dashboard & Insights)</a>
 </p>
 
+<h2 id="excel">📊 Excel</h2>
+<p>
+  - Experience with advanced Excel functions like VLOOKUP, INDEX/MATCH, and Pivot Tables.<br>
+  - Can automate reports with macros and VBA for streamlined workflows.<br>
+  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">View Excel Project (Bike Sales Analysis: Report & Dashboard)</a>
+</p>
+
 <h2 id="sql">💾 SQL</h2>
 <p>
   - Experience in writing efficient queries for data retrieval and manipulation.<br>
   - Experience with database design and optimisation techniques.<br>
   - <a href="https://github.com/Fred-Parker/Azure-Report---Paws-Whiskers">Microsoft Azure & SQL (A Report For Small Businesses) </a>
-</p>
-
-<h2 id="python">🐍 Python</h2>
-<p>
-  - Developed Python scripts for data analysis and automation.<br>
-  - Experience importing and using libraries like Pandas, NumPy, Matplotlib, and Seaborn.<br>
-  - <a href="your-project-link">View Python Project</a>
 </p>
 
 <hr>
