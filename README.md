@@ -51,29 +51,29 @@ My journey is *only just beginning*, and I'm constantly **learning and growing**
 <p>
   - Built dynamic visualizations and storytelling dashboards.<br>
   - Integrated Tableau with live data sources for real-time analytics.<br>
-  - <a href="https://github.com/Fred-Parker/Tableau---WHO-Survery-1990-2008">View Tableau Project (WHO Cancer Rates 1990-2008: Dashboard & Insights)</a>
-  --- <a href="https://github.com/Fred-Parker/Tableau---Gaming-Sales-Dashboard">View Tableau Project (Gaming Sales: Dashboard & Insights)</a>
+  - <a href="https://github.com/Fred-Parker/Tableau---WHO-Survery-1990-2008">(Tableau) WHO Cancer Rates 1990-2008: Dashboard & Insights</a>
+  | <a href="https://github.com/Fred-Parker/Tableau---Gaming-Sales-Dashboard">(Tableau) Gaming Sales: Dashboard & Insight</a>
 </p>
 
 <h2 id="python">🐍 Python</h2>
 <p>
   - Developed Python scripts for data analysis and automation.<br>
   - Experience importing and using libraries like Pandas, NumPy, Matplotlib, and Seaborn.<br>
-  - <a href="https://github.com/Fred-Parker/Python---GDP-nominal-per_capita">View Python Project (Global GDP Data - Visualisation & Analysis)</a>
+  - <a href="https://github.com/Fred-Parker/Python---GDP-nominal-per_capita">(Python) Global GDP Data - Visualisation & Analysis</a>
 </p>
 
 <h2 id="powerbi">📈 Power BI</h2>
 <p>
   - Created interactive dashboards for data visualization and insights.<br>
   - Working knowledge of DAX functions for complex data modeling.<br>
-  - <a href="https://github.com/Fred-Parker/PowerBI_Tech_Jobs_Satisfaction_Survey_Results">View Power BI Project (Tech Jobs Satisfaction Survery: Dashboard & Insights)</a>
+  - <a href="https://github.com/Fred-Parker/PowerBI_Tech_Jobs_Satisfaction_Survey_Results">(PowerBI) Tech Jobs Satisfaction Survery: Dashboard & Insights</a>
 </p>
 
 <h2 id="excel">📊 Excel</h2>
 <p>
   - Experience with advanced Excel functions like VLOOKUP, INDEX/MATCH, and Pivot Tables.<br>
   - Can automate reports with macros and VBA for streamlined workflows.<br>
-  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">View Excel Project (Bike Sales Analysis: Report & Dashboard)</a>
+  - <a href="https://github.com/Fred-Parker/Excel---Bike-Sales-Analysis-Report">(Excel)Bike Sales Analysis: Report & Dashboard</a>
 </p>
 
 <h2 id="sql">💾 SQL</h2>
